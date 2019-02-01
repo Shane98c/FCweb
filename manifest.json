@@ -1,0 +1,13 @@
+{
+  "name": "Flyover Country",
+  "short_name": "Flyover Country",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/imgs/logo.png",
+    "sizes": "1024x1024",
+    "type": "image/png"
+  }],
+  "background_color": "#4e8ef7",
+  "theme_color": "#4e8ef7"
+}
